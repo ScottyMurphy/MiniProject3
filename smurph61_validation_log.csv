@@ -1,5 +1,5 @@
 WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
-https://github.com/NLeSC/mcfly;spastor;smurph61;HasRecovered;No;Yes;No;"33 commits occurred after the longest gap; post-gap commits include coverage/configuration and dependency maintenance.";;;;
+https://github.com/NLeSC/mcfly;spastor;smurph61;HasRecovered;No;Yes;No; 33 commits occurred after the longest gap; postgap commits include coverage/configuration and dependency maintenance.;;;;
 https://github.com/cjhopp/scripts;spastor;smurph61;HasRecovered;No;Yes;No;73 commits occurred after the 2023-08 to 2024-06 gap.;;;;
 https://github.com/synthetichealth/module-builder;spastor;smurph61;HasRecovered;No;Yes;No;20 commits occurred after the 2024-06 to 2024-11 gap.;;;;
 https://github.com/PennyLaneAI/pennylane;spastor;smurph61;HasRecovered;Yes;Yes;Yes;The project has 24,198 commits after its brief 2019 gap and continuous high activity afterward.;;;;
